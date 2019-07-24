@@ -1,6 +1,6 @@
 {
   "name": "glitchy-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cli application to manage your glitch applications.",
   "main": "main.js",
   "keywords": [
@@ -17,5 +17,13 @@
   "preferGlobal": true,
   "bin": {
     "glitchy": "main.js"
+  },
+  "bugs": {
+    "url": "https://github.com/itspedruu/glitchy/issues"
+  },
+  "homepage": "https://github.com/itspedruu/glitchy#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itspedruu/glitchy.git"
   }
 }
