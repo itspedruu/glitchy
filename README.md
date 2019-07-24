@@ -2,6 +2,8 @@
     <img src="https://raw.githubusercontent.com/itspedruu/glitchy/master/logo.png">
 </div>
 
+## About
+
 Glitchy is a cli application for [Glitch](https://glitch.com/), a online platform for building online application with or without [Node.js](https://nodejs.org).
 
 ## Setup
