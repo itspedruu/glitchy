@@ -1,0 +1,4 @@
+{
+    "IMPORT_GITHUB_REPO": "https://api.glitch.com/project/githubImport?authorization={}&projectId={}&repo={}",
+    "LOGS_WEBSOCKET": "wss://api.glitch.com/{}/logs?authorization={}"
+}

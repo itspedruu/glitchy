@@ -1,0 +1,19 @@
+{
+  "name": "glitch-cli",
+  "version": "1.0.0",
+  "description": "A cli application to manage your glitch applications.",
+  "main": "main.js",
+  "keywords": [
+    "glitch",
+    "glitch-cli"
+  ],
+  "author": "Pedro Pinto <pedruupintuu@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "glitchy": "main.js"
+  }
+}
