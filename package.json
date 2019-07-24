@@ -1,12 +1,13 @@
 {
-  "name": "glitchy",
+  "name": "glitchy-cli",
   "version": "1.0.0",
   "description": "A cli application to manage your glitch applications.",
   "main": "main.js",
   "keywords": [
     "glitch",
     "glitch-cli",
-    "glitchy"
+    "glitchy",
+    "glitchy-cli"
   ],
   "author": "Pedro Pinto <pedruupintuu@hotmail.com>",
   "license": "MIT",
