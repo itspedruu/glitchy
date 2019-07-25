@@ -1,6 +1,6 @@
-<center>
+<p align="center">
     <img src="https://raw.githubusercontent.com/itspedruu/glitchy/master/logo.png">
-</center>
+</p>
 
 ## About
 

@@ -1,6 +1,6 @@
 {
   "name": "glitchy-cli",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A cli application to manage your glitch applications.",
   "main": "main.js",
   "keywords": [
