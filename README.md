@@ -1,6 +1,6 @@
-<div align="center">
+<center>
     <img src="https://raw.githubusercontent.com/itspedruu/glitchy/master/logo.png">
-</div>
+</center>
 
 ## About
 
@@ -18,6 +18,7 @@ The last 2 variables you can get by accessing the Network Tab with the Chrome De
 |------------------|-------------------------------------------------------------------|
 | `glitchy import` | Imports your current github repository onto your glitch project   |
 | `glitchy logs`   | Displays a realtime log information about your glitch application |
+| `glitchy setup`  | Setups the glitchy environment variables                          |
 
 ## Core
 
