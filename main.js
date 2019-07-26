@@ -7,6 +7,7 @@ const path = require('path');
 
 require('dotenv').config();
 
+const {version} = require('./package.json');
 const command = process.argv[2];
 const MAIN_FOLDER = process.cwd();
 
@@ -35,6 +36,9 @@ switch (command) {
 
         break;
     }
+    case '--version':
+        console.log(`Glitchy v${version}`);
+        break;
     default:
         console.log(`The command you are trying to execute doesn't exist.`);
 }
